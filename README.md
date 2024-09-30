@@ -17,7 +17,7 @@ const pairs = {
 ```
 Which might yield the following logs:
 ```
-> ['Lincln']
+> ['Lincoln']
 > Uncaught Error: Unknown cards found
 ```
 2. Navigate to the page with the "Start game" button.
