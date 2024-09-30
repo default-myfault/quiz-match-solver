@@ -22,4 +22,4 @@ Which might yield the following logs:
 ```
 2. Navigate to the page with the "Start game" button.
 3. Copy the entire script provided into the console and hit enter.
-4. If the script glitches out adjust the `between_clicks` constant to be higher.
+4. If the script glitches out increase the `between_clicks` constant.
