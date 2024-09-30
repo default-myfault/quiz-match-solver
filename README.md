@@ -15,11 +15,11 @@ const pairs = {
     "Abraham": "Lincln",
 }
 ```
-Which might yield the logs:
+Which might yield the following logs:
 ```
 > ['Lincln']
 > Uncaught Error: Unknown cards found
 ```
-2. Navigate to the page with the `Start game` button.
+2. Navigate to the page with the "Start game" button.
 3. Copy the entire script provided into the console and hit enter.
 4. If the script glitches out adjust the `between_clicks` constant to be higher.
